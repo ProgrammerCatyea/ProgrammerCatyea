@@ -14,7 +14,7 @@
 
 ###
 
-<h2> align="left">Programming and operation </h2>
+<h2> Programming and operation </h2>
 
 ###
 
