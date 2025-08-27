@@ -1,8 +1,8 @@
-<h1 align="left">Ey 👋 Como estas?</h1>
+<h1 align="left">Hey 👋 How are you??</h1>
 
 ###
 
-<p align="left">Mi nombre es Nicolas, programador en proceso y futuro desarrollador</p>
+<p align="left">My name is Nicolas, a programmer in training and future developer.</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨creando y corrigiendo errores <br>📚 Actualmente estudiando programación <br>🎯 Objetivos: Aportar, colaborar, crear y aplicar</p>
+<p align="left">✨creating and correcting errors <br>📚 Currently studying programming <br>🎯 Objectives: Contribute, collaborate, create, and apply</p>
 
 ###
 
-<h2 align="left">Programo y manejo</h2>
+<h2> align="left">Programming and operation </h2>
 
 ###
 
